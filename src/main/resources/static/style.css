@@ -1,0 +1,25 @@
+body {
+    background: url("https://fullhdwallpapers.ru/image/nature/9190/pasmurnye-gory.jpg") center no-repeat;
+    background-size: cover;
+    height: 100vh;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+
+th {
+    background-color: cadetblue;
+}
+
+
+.table {
+    width: 50%;
+    border-collapse: collapse;
+    background: whitesmoke;
+    color: black;
+    text-align: center;
+    margin-top: 100px;
+}
